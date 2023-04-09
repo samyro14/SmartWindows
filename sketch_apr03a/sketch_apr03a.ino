@@ -1,4 +1,4 @@
-rt#include <Adafruit_Sensor.h>
+#include <Adafruit_Sensor.h>
 #include <SoftwareSerial.h>
 #include <Servo.h>
 #include <dht.h> // librarie pentru temperatura si umiditate
